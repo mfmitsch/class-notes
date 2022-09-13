@@ -63,7 +63,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-
+          {
+            type: 'doc',
+            docId: 'index',
+            position: 'left',
+            label: 'Notes',
+          },
         ],
       },
       footer: {
@@ -93,6 +98,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['csharp']
       },
     }),
 };
