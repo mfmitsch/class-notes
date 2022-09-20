@@ -1,3 +1,7 @@
-# My Class Notes 
+---
+sidebar_position: 1
+---
 
-These will be my class notes.
+# My Class Notes
+
+These will be the notes for my class.
