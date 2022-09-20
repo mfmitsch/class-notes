@@ -69,6 +69,12 @@ const config = {
             position: 'left',
             label: 'Notes',
           },
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/JeffryGonzalez/class-notes',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
